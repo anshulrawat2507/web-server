@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Ankit Pundir - anshulrawat519@gmail.com
-Project Link: [https://github.com/Ankit0-0/Multithreaded-Web-Server.git](https://github.com/Ankit0-0/Multithreaded-Web-Server.git)
+Anshul Rawat - anshulrawat519@gmail.com
+Project Link: [https://github.com/Ankit0-0/Multithreaded-Web-Server.git]((https://github.com/anshulrawat2507/web-server))
 
 ## 🙏 Acknowledgments
 
